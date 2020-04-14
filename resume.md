@@ -3,7 +3,7 @@
 ## Overview
 
 * Engineer with 20+ years of professional experience in a wide range of technologies
-* Work experience from startups to multinational corporations, and team sizes from one to hundreds
+* Work experience from startups to multinationals, and team sizes from one to hundreds
 * 
 
 ## Experience
@@ -14,15 +14,17 @@ _Dec 2017 - Feb 2020_
 ### Senior Developer, Rested Inc./Atomic Labs
 _May 2016 - Dec. 2017_
 
+Led development of APIs to support iOS and web apps, and internal systems for operations use, for a company dedicated to improving sleep health. Operationalized a prototype EHR/CRM/telemedicine system which supported tens of thousands of patients in daily use. Integrated with numerous external services for payment, communication, and interoperability with business partners. Spearheaded HIPAA compliance implementation.
+
 ### Coder and Technical Evangelist, PokitDok Inc.
 _Aug 2013 - Apr 2016_
 
-Performed design and development tasks on the PokitDok Platform, a series of APIs for health data and connectivity with legacy insurance companies. As technical evangelist, created and optimized our developer experience including signup and API documentation; planned and attended developer conferences and codeathons to build third-party support for the platform; and wrote and maintained open-source client libraries for the PokitDok Platform using Ruby and Java. Built and maintained secondary systems such as a Wordpress blog, various development environments using Vagrant, and internal office networks.
+Designed and built front and back-end functionality on a platform for health data and connectivity with legacy insurance payers. As technical evangelist, created and optimized our developer experience including signup and API documentation; organized and attended developer conferences and codeathons to build third-party support for the platform; spoke at large health-tech conferences including HIMSS; and wrote and maintained open-source client libraries using Ruby and Java. Built and maintained secondary systems (blogs, development VMs, office networks)
 
 ### Mad Scientist, Blue Ion LLC
 _Apr 2013 - Jul 2013_
 
-Developed backend administration tools for marketing websites, as well as IT administration tasks.
+Developed backend administration tools for marketing websites, as well as IT administration tasks. 
 
 ### Senior Developer, Zengine (Formerly MileMeter Insurance Co.)
 _Apr 2008 - May 2012_
@@ -47,8 +49,9 @@ Designed and developed numerous applications and performed consulting services f
 ## Skills
 
 ## Education
-Charleston Southern University, Charleston, SC
+### Charleston Southern University, Charleston, SC
 
 Received Double BS in Computer Science/Math and Business Administration/Information Systems in May 1998. Holds South Carolina state record for youngest college graduate, at 16.
 
-## References
+## Extras
+References and security clearance information available upon request.
