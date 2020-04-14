@@ -5,7 +5,7 @@
 * Full-stack engineer with 20+ years of professional experience in a wide range of technologies
 * Wide experience architecting complex, business critical systems
 * Worked at multiple scales from startups to multinationals, and team sizes from one to hundreds
-* Comfortable doing what needs to be done to assure team success, at every level of the business, from negotiating with the CEO to fixing the coffee maker.
+* Comfortable doing what needs to be done to assure team success at every level of the business, from negotiating with the CEO to fixing the coffee maker.
 
 ## Experience
 
