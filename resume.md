@@ -2,16 +2,17 @@
 
 ## Overview
 
-* Engineer with 20+ years of professional experience in a wide range of technologies
+* Full-stack engineer with 20+ years of professional experience in a wide range of technologies
 * Wide experience architecting complex, business critical systems
 * Worked at multiple scales from startups to multinationals, and team sizes from one to hundreds
+* Comfortable doing what needs to be done to assure team success, at every level of the business, from negotiating with the CEO to fixing the coffee maker.
 
 ## Experience
 
 ### Senior Software Engineer / Team Lead, Dictionary.com
 _Dec 2017 - Feb 2020_
 
-Led back-end team, handling all aspects of programmatic ad technology, APIs, content, and devops. Architected and implemented six-month project to rebuild Dictionary's data ingestion pipeline, which combines multiple proprietary data sources according to extensive business and lexicographical rulesets to build dictionary pages that are both academically accurate and compliant with SEO goals.
+Led back-end team, handling all aspects of programmatic ad technology, APIs, content, and devops. Architected and led implementation of six-month project to rebuild Dictionary's data ingestion pipeline, which combines multiple proprietary data sources according to extensive business and lexicographical rulesets to build dictionary pages that are both academically accurate and compliant with SEO goals. Performed project management and product design during extensive turnover and leadership changes. Led programmatic ad improvements that resulted in demonstrable revenue increase. Built Dictionary's first Alexa skill in my spare time.
 
 ### Senior Developer, Rested Inc./Atomic Labs
 _May 2016 - Dec. 2017_
@@ -57,7 +58,10 @@ JavaScript, Python, Ruby, Java, C#, C, various assemblers.
 NodeJS, Express, Ruby On Rails, Flask
 
 ### Databases
-Relational (PostgreSQL, MySQL, SQLite Oracle), NoSQL (MongoDB, DynamoDB), graph (RedisGraph, Neo4J)
+Relational (PostgreSQL, MySQL, SQLite, Oracle), NoSQL (MongoDB, DynamoDB), graph (RedisGraph, Neo4J)
+
+### Infrastructure
+Extensive AWS experience including EC2, Lambda, RDS, CloudFormation/Terraform, and others. 20+ year Linux/BSD native.
 
 ### Hobby Experience
 Non-professional experience in 3D modeling (Fusion 360), 3D printing, microcontrollers/IOT (ESP32, Arduino, MicroPython), product prototyping and propbuilding, game development, electronics diagnosis and repair (focused on vintage microcomputing), video/audio production and editing, photography.
