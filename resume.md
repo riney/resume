@@ -11,6 +11,8 @@
 ### Senior Software Engineer / Team Lead, Dictionary.com
 _Dec 2017 - Feb 2020_
 
+Led back-end team, handling all aspects of programmatic ad technology, APIs, content, and devops. Architected and implemented six-month project to rebuild Dictionary's data ingestion pipeline, which combines multiple proprietary data sources according to extensive business and lexicographical rulesets to build dictionary pages that are both academically accurate and compliant with SEO goals.
+
 ### Senior Developer, Rested Inc./Atomic Labs
 _May 2016 - Dec. 2017_
 
@@ -47,6 +49,18 @@ _Jul 1998 - Nov 2002_
 Designed and developed numerous applications and performed consulting services for US Department Of Defense and commercial clients. Applications included real-time data monitoring and statistical analysis for sensor data from aircraft ground equipment, a large-scale intellectual property tracking and anti-piracy system, domain-specific search engines for manufacturing and technical data, e-commerce, online collaboration, an early MP3-based jukebox with supporting server architecture, and other projects. 
 
 ## Skills
+
+### Languages
+JavaScript, Python, Ruby, Java, C#, C, various assemblers.
+
+### Frameworks
+NodeJS, Express, Ruby On Rails, Flask
+
+### Databases
+Relational (PostgreSQL, MySQL, SQLite Oracle), NoSQL (MongoDB, DynamoDB), graph (RedisGraph, Neo4J)
+
+### Hobby Experience
+Non-professional experience in 3D modeling (Fusion 360), 3D printing, microcontrollers/IOT (ESP32, Arduino, MicroPython), product prototyping and propbuilding, game development, electronics diagnosis and repair (focused on vintage microcomputing), video/audio production and editing, photography.
 
 ## Education
 ### Charleston Southern University, Charleston, SC
