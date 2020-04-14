@@ -71,5 +71,8 @@ Non-professional experience in 3D modeling (Fusion 360), 3D printing, microcontr
 
 Received Double BS in Computer Science/Math and Business Administration/Information Systems in May 1998. Holds South Carolina state record for youngest college graduate, at 16.
 
+## Location
+Oakland, CA. Open to on-premises or remote work. Relocation considered.
+
 ## Extras
 References and security clearance information available upon request.
