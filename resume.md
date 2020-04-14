@@ -3,8 +3,8 @@
 ## Overview
 
 * Engineer with 20+ years of professional experience in a wide range of technologies
-* Work experience from startups to multinationals, and team sizes from one to hundreds
-* 
+* Wide experience architecting complex, business critical systems
+* Worked at multiple scales from startups to multinationals, and team sizes from one to hundreds
 
 ## Experience
 
@@ -31,7 +31,7 @@ Developed backend administration tools for marketing websites, as well as IT adm
 ### Senior Developer, Zengine (Formerly MileMeter Insurance Co.)
 _Apr 2008 - May 2012_
 
-Built software to run the nation’s first distance-based auto insurer from front to back end, including a direct-sales web application for quote, purchase, and self-service; rating and underwriting; claims management; administration; financials; and reporting. Performed full-lifecycle software development activities, including requirements gathering from subject matter experts, design, implementation, testing, deployment, and production support. Built and maintained staging and production server architectures on Amazon Web Services, including provisions for security and data integrity; as a result, the company experienced a total of one unplanned downtime from launch in October 2008 to spin-down in January 2012. Created and curated our development practice, including development standards, revision control, automated deployment, continuous integration, issue tracking, and internal wikis, scaling from 2 to 12 developers.
+Built software to run the nation’s first distance-based auto insurer from front to back end, including a direct-sales web application for quote, purchase, and self-service; rating and underwriting; claims management; administration; financials; and reporting. Experienced a total of one unplanned downtime from launch in October 2008 to spin-down in January 2012. Created and curated our development practice.
 
 ### Computer Specialist/Programmer, Imagine One Technology and Management Ltd.
 _Feb 2007 - Apr 2008_
