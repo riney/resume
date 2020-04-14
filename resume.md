@@ -47,11 +47,8 @@ Designed and developed numerous applications and performed consulting services f
 ## Skills
 
 ## Education
-
 Charleston Southern University, Charleston, SC
 
-_May 1998_
-
-Double BS in Computer Science/Math and Business Administration/Information Systems. Holds South Carolina state record for youngest college graduate, at 16.
+Received Double BS in Computer Science/Math and Business Administration/Information Systems in May 1998. Holds South Carolina state record for youngest college graduate, at 16.
 
 ## References
