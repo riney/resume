@@ -64,7 +64,7 @@ Relational (PostgreSQL, MySQL, SQLite, Oracle), NoSQL (MongoDB, DynamoDB), graph
 Extensive AWS experience including EC2, Lambda, RDS, CloudFormation/Terraform, and others. 20+ year Linux/BSD native.
 
 ### Communication
-Highly skilled at communicating complex topics at all levels, in both spoken and written channels. Actually enjoys writing documentation. Honest and reliable team leader.
+Highly skilled at communicating complex topics to colleagues at all levels, via spoken and written channels. Actually enjoys writing documentation. Honest and reliable team leader.
 
 ### Hobby Experience
 Non-professional experience in 3D modeling (Fusion 360), 3D printing, microcontrollers/IOT (ESP32, Arduino, MicroPython), product prototyping and propbuilding, game development, electronics diagnosis and repair (focused on vintage microcomputing), video/audio production and editing, photography.
