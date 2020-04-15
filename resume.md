@@ -69,12 +69,12 @@ Highly skilled at communicating complex topics to colleagues at all levels, via 
 ### Hobby Experience
 Non-professional experience in 3D modeling (Fusion 360), 3D printing, microcontrollers/IOT (ESP32, Arduino, MicroPython), product prototyping and propbuilding, game development, electronics diagnosis and repair (focused on vintage microcomputing), video/audio production and editing, photography.
 
+## Patents
+[US9818157](https://patents.google.com/patent/US9818157), Method for using electronic metadata to verify insurance claims
+
 ## Education
 ### Charleston Southern University, Charleston, SC
 Received Double BS in Computer Science/Math and Business Administration/Information Systems in May 1998. Holds South Carolina state record for youngest college graduate, at 16.
-
-## Patents
-[US9818157](https://patents.google.com/patent/US9818157), Method for using electronic metadata to verify insurance claims
 
 ## Location
 Oakland, CA. Open to on-premises or remote work. Relocation considered.
