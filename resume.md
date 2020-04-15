@@ -22,7 +22,7 @@ Led development of APIs to support iOS and web apps, and internal systems for op
 ### Coder and Technical Evangelist, PokitDok Inc.
 _Aug 2013 - Apr 2016_
 
-Designed and built front and back-end functionality on a platform for health data and connectivity with legacy insurance payers. As technical evangelist, created and optimized our developer experience including signup and API documentation; organized and attended developer conferences and codeathons to build third-party support for the platform; spoke at large health-tech conferences including HIMSS (Healthcare Information and Management Systems Society); and wrote and maintained open-source client libraries using Ruby and Java. Built and maintained secondary systems (blogs, development virtual environments, office networks)
+Designed and built front and back-end functionality on a platform for health data and connectivity with insurance payers. As technical evangelist, created and optimized our developer experience including signup and API documentation; organized and attended developer conferences and codeathons to build third-party support for the platform; spoke at large health-tech conferences including HIMSS (Healthcare Information and Management Systems Society); and wrote and maintained open-source client libraries using Ruby and Java. Built and maintained secondary systems (blogs, development virtual environments, office networks)
 
 ### Mad Scientist, Blue Ion LLC
 _Apr 2013 - Jul 2013_
