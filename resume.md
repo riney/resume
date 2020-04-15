@@ -61,7 +61,7 @@ NodeJS, Express, Ruby On Rails, Flask
 Relational (PostgreSQL, MySQL, SQLite, Oracle), NoSQL (MongoDB, DynamoDB), graph (RedisGraph, Neo4J)
 
 ### Infrastructure
-Extensive AWS experience including EC2, Lambda, RDS, CloudFormation/Terraform, and others. 20+ year Linux/BSD native.
+Extensive AWS experience including EC2, Lambda, RDS, CloudFormation/Terraform, and others. Designed, built, and managed on-premise IT systems. 20+ year Linux/BSD native.
 
 ### Communication
 Highly skilled at communicating complex topics to colleagues at all levels, via spoken and written channels. Actually enjoys writing documentation. Honest and reliable team leader.
