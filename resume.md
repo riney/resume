@@ -14,7 +14,7 @@ _Dec 2017 - Feb 2020_
 
 Led back-end team, handling all aspects of programmatic ad technology, APIs, content, and devops. Architected and led implementation of six-month project to rebuild Dictionary's data ingestion pipeline, which combines multiple proprietary data sources according to extensive business and lexicographical rulesets to build dictionary pages that are both academically accurate and compliant with SEO (Search Engine Optimization) goals. Performed project management and product design during extensive turnover and leadership changes. Led programmatic ad improvements that resulted in demonstrable revenue increase. Built Dictionary's first Alexa skill in my spare time.
 
-### Senior Developer, Rested Inc./Atomic Labs
+### Senior Developer, Rested Inc. / Atomic Labs
 _May 2016 - Dec 2017_
 
 Led development of APIs to support iOS and web apps, and internal systems for operations use, for a company dedicated to improving sleep health. Operationalized a prototype EHR (Electronic Health Record)/CRM (Customer Relationship Management)/telemedicine system which supported tens of thousands of patients in daily use. Integrated with numerous external services for payment, communication, and interoperability with business partners. Spearheaded HIPAA (Health Insurance Portability and Accountability Act) compliance implementation.
