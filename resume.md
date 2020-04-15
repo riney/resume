@@ -71,7 +71,7 @@ Non-professional experience in 3D modeling (Fusion 360), 3D printing, microcontr
 
 Received Double BS in Computer Science/Math and Business Administration/Information Systems in May 1998. Holds South Carolina state record for youngest college graduate, at 16.
 
-## Patents and Publications
+## Patents
 [US9818157](https://patents.google.com/patent/US9818157), Method for using electronic metadata to verify insurance claims
 
 ## Location
