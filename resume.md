@@ -66,10 +66,13 @@ NodeJS, Express, Ruby On Rails, Flask
 Relational (PostgreSQL, MySQL, SQLite, Oracle), NoSQL (MongoDB, DynamoDB), graph (RedisGraph, Neo4J)
 
 ### Infrastructure
-Extensive AWS experience including EC2, Lambda, RDS, CloudFormation/Terraform, and others. Designed, built, and managed on-premise IT systems. 20+ year Linux/BSD native.
+Extensive AWS experience including EC2, Lambda, RDS, and others. Infrastructure-as-code tools including Puppet, Terraform, and CloudFormation. Designed, built, and managed on-premise IT systems. 20+ year Linux/UNIX native.
+
+### Other Technologies
+At least passing familiarity with a wide variety of other languages, technologies, and platforms not listed here, as a result of working as a consultant and having a wide array of interests. If it's not listed above, please ask!
 
 ### Communication
-Highly skilled at communicating complex topics to colleagues at all levels, via spoken and written channels. Actually enjoys writing documentation. Honest and reliable team leader.
+Highly skilled at communicating complex topics to colleagues at all levels, via spoken and written channels. Accomplished public speaker, having addressed audiences of thousands. Actually enjoys writing documentation. Honest and reliable team leader.
 
 ### Hobby Experience
 Non-professional experience in 3D modeling (Fusion 360, Sketchup, Draftsight), 3D printing (FDM and SLA), microcontrollers/IOT (ESP8266/32, Arduino, MicroPython), product prototyping, propbuilding, game development, electronics diagnosis and repair (focused on vintage microcomputing), video production and editing, photography.
