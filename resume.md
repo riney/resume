@@ -47,7 +47,7 @@ Performed IT tasks and developer support maintaining a test environment for a la
 ### Senior Developer, Geologics Inc. (independent contractor) 
 _Apr 2004 - Jan 2007_
 
-Developed an web-based financial analysis package for several SPAWAR clients. The package replaced manual processing of green bar reports with a high-level dashboard view of daily operations for management use, as well as drill-down capability and graphical analysis of accounts and expenditures. 
+Developed an web-based financial analysis package for several SPAWAR clients. The package replaced manual processing of paper reports with a high-level dashboard view of daily operations for management use, as well as drill-down capability and graphical analysis of accounts and expenditures. 
 
 ### Consultant, ICF Consulting (formerly Arthur D. Little)
 _Jul 1998 - Nov 2002_
