@@ -37,7 +37,7 @@ Developed backend administration tools for marketing websites, as well as IT adm
 ### Senior Developer, Zengine (formerly MileMeter Insurance Co.)
 _Apr 2008 - May 2012_
 
-Built software to run the nation’s first distance-based auto insurer from front to back end, including a direct-sales web application for quote, purchase, and self-service; rating and underwriting; claims management; administration; financials; and reporting. Experienced a total of one unplanned downtime from launch in October 2008 to spin-down in January 2012. Created and curated our development practice.
+Built software to run the nation’s first distance-based auto insurer from front to back end, including a direct-sales web application for quote, purchase, and self-service; rating and underwriting; claims management; administration; financials; and reporting. Experienced a total of one unplanned downtime from launch in October 2008 to spin-down in January 2012. Defined and curated our development practice.
 
 ### Computer Specialist/Programmer, Imagine One Technology and Management Ltd.
 _Feb 2007 - Apr 2008_
