@@ -72,7 +72,7 @@ Extensive AWS experience including EC2, Lambda, RDS, CloudFormation/Terraform, a
 Highly skilled at communicating complex topics to colleagues at all levels, via spoken and written channels. Actually enjoys writing documentation. Honest and reliable team leader.
 
 ### Hobby Experience
-Non-professional experience in 3D modeling (Fusion 360), 3D printing, microcontrollers/IOT (ESP32, Arduino, MicroPython), product prototyping and propbuilding, game development, electronics diagnosis and repair (focused on vintage microcomputing), video/audio production and editing, photography.
+Non-professional experience in 3D modeling (Fusion 360, Sketchup, Draftsight), 3D printing (FDM and SLA), microcontrollers/IOT (ESP8266/32, Arduino, MicroPython), product prototyping, propbuilding, game development, electronics diagnosis and repair (focused on vintage microcomputing), video production and editing, photography.
 
 ## Patents
 [US9818157](https://patents.google.com/patent/US9818157), "Method for using electronic metadata to verify insurance claims"
