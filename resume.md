@@ -12,7 +12,7 @@
 ### Software / DevOps / API Developer, National Energy Research Scientific Computing Center (NERSC) at Lawrence Berkeley National Laboratories
 _Sep 2020 - Present_
 
-Developed tools and APIs for NERSC, the Department of Energy's unclassified supercomputing center. 
+Developed tools and APIs for NERSC, the Department of Energy's unclassified supercomputing center. Implemented features and bug fixes for Iris, an accounting and user management system that integrates with numerous internal systems to allocate compute hours from the program -> project -> user levels. Built a new cluster in Spin, a Kubernetes-based compute-on-demand platform for scientific workloads.
 
 ### Senior Software Engineer / Team Lead, Dictionary.com
 _Dec 2017 - Feb 2020_
