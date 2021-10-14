@@ -52,7 +52,7 @@ Developed an web-based financial analysis package for several SPAWAR clients. Th
 ### Consultant, ICF Consulting (formerly Arthur D. Little)
 _Jul 1998 - Nov 2002_
 
-Designed and developed numerous applications and performed consulting services for US DoD and commercial clients. Applications included real-time data monitoring and statistical analysis for sensor data from aircraft ground equipment, a large-scale intellectual property tracking and anti-piracy system, domain-specific search engines for manufacturing and technical data, e-commerce, online collaboration, an early MP3-based jukebox with supporting server architecture, and other projects. 
+Designed and developed numerous applications and performed consulting services for US DoD and commercial clients. Applications included real-time data monitoring and statistical analysis for sensor data from aircraft ground equipment, an international-scale intellectual property tracking and anti-piracy system, domain-specific search engines for manufacturing and technical data, e-commerce, online collaboration, an early MP3-based jukebox with supporting server architecture, and other projects. 
 
 ## Skills
 
