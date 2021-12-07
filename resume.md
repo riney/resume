@@ -80,6 +80,9 @@ Non-professional experience in 3D modeling (Fusion 360, Sketchup, Draftsight), 3
 ## Patents
 [US9818157](https://patents.google.com/patent/US9818157), "Method for using electronic metadata to verify insurance claims"
 
+## Publications
+Bard D.J. et al. (2021) [Automation for Data-Driven Research with the NERSC Superfacility API](https://link.springer.com/chapter/10.1007/978-3-030-90539-2_22). In: Jagode H., Anzt H., Ltaief H., Luszczek P. (eds) High Performance Computing. ISC High Performance 2021. Lecture Notes in Computer Science, vol 12761. Springer, Cham. [https://doi.org/10.1007/978-3-030-90539-2_22](https://doi.org/10.1007/978-3-030-90539-2_22)
+
 ## Education
 ### Charleston Southern University, Charleston, SC
 Received Double BS in Computer Science/Math and Business Administration/Information Systems in May 1998. Holds South Carolina state record for youngest college graduate, at 16.
