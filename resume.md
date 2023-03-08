@@ -3,7 +3,7 @@
 ## Overview
 
 * Full-stack engineer with 20+ years of professional experience in a wide range of technologies
-* Wide experience architecting complex, business critical systems
+* Wide range of experience architecting complex, business critical systems
 * Worked at multiple scales from startups to multinationals, and team sizes from one to hundreds
 * Comfortable doing what needs to be done to assure team success at every level of the business, from negotiating with the CEO to fixing the coffee maker.
 
@@ -12,12 +12,12 @@
 ### Software / DevOps / API Developer, National Energy Research Scientific Computing Center (NERSC) at Lawrence Berkeley National Laboratories
 _Sep 2020 - Present_
 
-Developed tools and APIs for NERSC, the Department of Energy's unclassified supercomputing center. Implemented features and bug fixes for Iris, an accounting and user management system that integrates with numerous internal systems to allocate compute hours from the program -> project -> user levels. Built a new cluster in Spin, a Kubernetes-based compute-on-demand platform for scientific workloads.
+Developed tools and APIs for NERSC, the Department of Energy's unclassified supercomputing center. Built APIs that wrap an entire Department of Energy National Laboratory. Launched Federated Identity single-signon capability to Lab computing assets, requiring extensive modification of open-source components and integration with Lab systems. Implemented features and bug fixes for Iris, an accounting and user management system that integrates with numerous internal systems to allocate compute hours from the program -> project -> user levels.  Built a new cluster in Spin, a Kubernetes-based compute-on-demand platform for scientific workloads (think AWS for science)
 
 ### Senior Software Engineer / Team Lead, Dictionary.com
 _Dec 2017 - Feb 2020_
 
-Led back-end team, handling all aspects of programmatic ad technology, APIs, content, and devops. Architected and led implementation of six-month project to rebuild Dictionary's data ingestion pipeline, which combines multiple proprietary data sources according to extensive business and lexicographical rulesets to build dictionary pages that are both academically accurate and compliant with SEO (Search Engine Optimization) goals. Performed project management and product design during extensive turnover and leadership changes. Led programmatic ad improvements that resulted in demonstrable revenue increase. Built Dictionary's first Alexa skill in my spare time.
+Led back-end team, handling all aspects of programmatic ad technology, APIs, content, and devops. Architected and led implementation of eighteen-month project to rebuild Dictionary's data ingestion pipeline, which combines multiple proprietary data sources according to extensive business and lexicographical rulesets to build dictionary pages that are both academically accurate and compliant with SEO (Search Engine Optimization) goals. Managed project during extensive turnover and leadership changes. Led development of programmatic ad improvements that resulted in demonstrable revenue increases. Built Dictionary's first Alexa skill in my spare time.
 
 ### Senior Developer, Rested Inc. / Atomic Labs
 _May 2016 - Dec 2017_
