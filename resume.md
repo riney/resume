@@ -2,17 +2,16 @@
 
 ## Overview
 
-* Full-stack engineer with 20+ years of professional experience in a wide range of technologies
-* Wide range of experience architecting complex, business critical systems
-* Worked at multiple scales from startups to multinationals, and team sizes from one to hundreds
+* Well-rounded engineer and architect experienced with shipping product at scale using a broad range of technologies
+* Worked at multiple team sizes from startups to multinationals, and team sizes from one to hundreds
 * Comfortable doing what needs to be done to assure team success at every level of the business, from negotiating with the CEO to fixing the coffee maker.
 
 ## Experience
 
 ### Software / DevOps / API Developer, National Energy Research Scientific Computing Center (NERSC) at Lawrence Berkeley National Laboratories
-_Sep 2020 - Present_
+_Sep 2020 - May 2026_
 
-Developed tools and APIs for NERSC, the Department of Energy's unclassified supercomputing center. Built APIs that wrap an entire Department of Energy National Laboratory. Launched Federated Identity single-signon capability to Lab computing assets, requiring extensive modification of open-source components and integration with Lab systems. Implemented features and bug fixes for Iris, an accounting and user management system that integrates with numerous internal systems to allocate compute hours from the program -> project -> user levels.  Built a new cluster in Spin, a Kubernetes-based compute-on-demand platform for scientific workloads (think AWS for science)
+Developed tools and APIs for NERSC, the Department of Energy's unclassified supercomputing center. Built APIs that wrap an entire Department of Energy National Laboratory. Launched Federated Identity single-signon capability to Lab computing assets, requiring extensive modification of open-source components and integration with Lab systems. Implemented features and bug fixes for Iris, an accounting and user management system that integrates with numerous internal systems to allocate compute hours from the program -> project -> user levels.  Built a user-facing cluster in Spin, a Kubernetes-based multi-tenant compute-on-demand platform enabling scientists to deploy scientific workloads (think AWS for science).
 
 ### Senior Software Engineer / Team Lead, Dictionary.com
 _Dec 2017 - Feb 2020_
