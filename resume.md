@@ -3,7 +3,7 @@
 ## Overview
 
 * Well-rounded engineer and architect experienced with shipping product at scale using a broad range of technologies
-* Worked at multiple team sizes from startups to multinationals, and team sizes from one to hundreds
+* Worked at multiple corporate levels from startups to multinationals, and team sizes from one to hundreds
 * Comfortable doing what needs to be done to assure team success at every level of the business, from negotiating with the CEO to fixing the coffee maker.
 
 ## Experience
